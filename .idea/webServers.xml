@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="24ea0e6d-1ebe-40ff-ac3e-069a576fb57f" name="angular_local" url="http://angular:8888">
+        <fileTransfer mountedRoot="$USER_HOME$/Yandex.Disk.localized/Dev/angular" accessType="MOUNT" />
+      </webServer>
+      <webServer id="81b8546d-3934-4764-bc99-d00320d70415" name="beta_anna" url="http://beta.annagorina.ru">
+        <fileTransfer host="62.76.184.59" port="38422" rootFolder="/var/www/anna/data/www/beta.annagorina.ru" accessType="SFTP" password="dfefdfcedff9df9adfcedfffdfeedfe2" username="anna">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
